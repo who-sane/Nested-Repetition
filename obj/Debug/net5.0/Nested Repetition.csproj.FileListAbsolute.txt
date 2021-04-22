@@ -1,0 +1,16 @@
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\bin\Debug\net5.0\Nested Repetition.exe
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\bin\Debug\net5.0\Nested Repetition.deps.json
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\bin\Debug\net5.0\Nested Repetition.runtimeconfig.json
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\bin\Debug\net5.0\Nested Repetition.runtimeconfig.dev.json
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\bin\Debug\net5.0\Nested Repetition.dll
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\bin\Debug\net5.0\ref\Nested Repetition.dll
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\bin\Debug\net5.0\Nested Repetition.pdb
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\obj\Debug\net5.0\Nested Repetition.csprojAssemblyReference.cache
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\obj\Debug\net5.0\Nested Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\obj\Debug\net5.0\Nested Repetition.AssemblyInfoInputs.cache
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\obj\Debug\net5.0\Nested Repetition.AssemblyInfo.cs
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\obj\Debug\net5.0\Nested Repetition.csproj.CoreCompileInputs.cache
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\obj\Debug\net5.0\Nested Repetition.dll
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\obj\Debug\net5.0\ref\Nested Repetition.dll
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\obj\Debug\net5.0\Nested Repetition.pdb
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Nested Repetition\obj\Debug\net5.0\Nested Repetition.genruntimeconfig.cache
